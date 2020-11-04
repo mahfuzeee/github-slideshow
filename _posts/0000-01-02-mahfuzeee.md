@@ -1,5 +1,5 @@
-Layout: Slide
-Title: "Welcome to our second slide"
-
-This is a file I am creating is my first file.
-It is just a introduction to github.
+Changing the file.
+This is relax time.
+Time will be harder.
+Dont worry.
+Every thing will be ok.
